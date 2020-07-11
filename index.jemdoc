@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{Figs/bruce.jpg}{Bruce Lee}{322px}{396px}{}
+*Bruce Lee* \n
+[brucele@seas.upenn.edu] \n
+PhD student, [https://www.ese.upenn.edu/ Electrical and System Engineering] \n
+Member, [https://www.grasp.upenn.edu/ GRASP Lab] \n
+[https://www.upenn.edu/ University of Pennsylvania]
+
+Advised by [https://nikolaimatni.github.io/ Nikolai Matni] \n
+~~~
+
+= Research Interests
+Control, Learning, Optimization
