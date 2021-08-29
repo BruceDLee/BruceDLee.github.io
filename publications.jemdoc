@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{publications.html}
+== Publications
+\n
+For an up to date list of publications, visit my [https://scholar.google.com/citations?user=CRNmfCAAAAAJ&hl=en Google Scholar Page]
+
+ - *B. Lee* and A. Lamperski, ``Non-asymptotic Closed-Loop System Identification using Autoregressive Processes and Hankel Model Reduction'', Conference on Decision and Control 2020.  [https://arxiv.org/pdf/1909.02192.pdf]   
+ - *B. Lee* and P. Seiler, ``Performance Analysis
+    of First-order Methods using Interpolation Conditions
+    without Function Evaluations,'' American Control Conference 2021. [https://arxiv.org/pdf/2005.01825.pdf]
+ - J. Xu, *B. Lee*, N. Matni, D. Jayaraman ``How are Learned Perception-Based Controllers Impacted by the Limits of Robust Control?'', Learning for Dynamics and Control 2021. [http://proceedings.mlr.press/v144/xu21b/xu21b.pdf]

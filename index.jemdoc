@@ -9,7 +9,13 @@ Member, [https://www.grasp.upenn.edu/ GRASP Lab] \n
 [https://www.upenn.edu/ University of Pennsylvania]
 
 Advised by [https://nikolaimatni.github.io/ Nikolai Matni] \n
+Supported by an [https://ndseg.sysplus.com/ NDSEG fellowship] \n
 ~~~
 
 = Research Interests
-Control, Learning, Optimization
+Learning, Optimization, Control
+
+= Research Overview
+My research is at the intersection of machine learning and control. I am interested in designing and analyzing new algorithms for safe and robust data driven control of robotic systems. Additionally, I study the properties and fundamental limitations of systems which make data driven control difficult. 
+#From image classifiers and trackers on autonomous vehicles to directly learning control policies for grasping, machine learning techniques are now frequently applied in the pipeline to control physical systems. Ensuring that these technologies are safe enough to be unleashed upon the world is a massive research interest in both machine learning and control theory communities. A consideration which is often overlooked or ignored are the fundamental limitations of these technologies. My research studies the fundamental limitations of cybernetic systems arising from computational speed limits, information theoretic limits, and . My research takes a multipronged approach where limits are explored theoretically, and are both guided and put to the test experimentally. These findings will be utilized to develop pratically applicable algorithms for data driven and perception based control which operate close to the frontier of the fundmental limitations.  
+
